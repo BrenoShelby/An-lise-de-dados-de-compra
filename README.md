@@ -1,2 +1,2 @@
 # An-lise-de-dados-de-compra
-Uma breve análise de compras de uma loja fictícia, utilizando pandas e matplotlib
+Uma breve análise de compras de uma loja fictícia, utilizando pandas e numpy
